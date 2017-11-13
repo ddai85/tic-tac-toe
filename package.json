@@ -1,0 +1,23 @@
+{
+  "name": "tic-tac-toe",
+  "version": "1.0.0",
+  "description": "a commandline tic-tac-toe game",
+  "main": "index.js",
+  "dependencies": {
+    "prompt": "^1.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ddai85/tic-tac-toe.git"
+  },
+  "author": "Daniel Dai",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ddai85/tic-tac-toe/issues"
+  },
+  "homepage": "https://github.com/ddai85/tic-tac-toe#readme"
+}
